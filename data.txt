@@ -1,1 +1,4 @@
-[]
+- path: gadm_philippines_0_sf
+  name: gadm_philippines_0_sf
+  description: Philippines Map from the GADM Database, Level 0
+  type: default

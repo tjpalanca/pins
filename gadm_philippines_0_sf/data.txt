@@ -1,0 +1,5 @@
+path: data.rds
+description: Philippines Map from the GADM Database, Level 0
+type: default
+filenames:
+  data.rds: data.rds
