@@ -7,3 +7,7 @@
   extension: zip
   description: Best Tracks for Western Pacific Typhoons
   type: files
+- path: ibtracs_wp_lines_shp_sf
+  name: ibtracs_wp_lines_shp_sf
+  description: Best Track Archive for Western Pacific (SF)
+  type: default
