@@ -1,6 +1,6 @@
 path: IBTrACS.WP.list.v04r00.lines.zip
 extension: zip
-description: Shapefile for best tracks in the Western Pacific
+description: Best Tracks for Western Pacific Typhoons
 type: files
 filenames:
   IBTrACS.WP.list.v04r00.lines.zip: IBTrACS.WP.list.v04r00.lines.zip

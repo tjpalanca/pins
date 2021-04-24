@@ -5,5 +5,5 @@
 - path: ibtracs_wp_lines_shp
   name: ibtracs_wp_lines_shp
   extension: zip
-  description: Shapefile for best tracks in the Western Pacific
+  description: Best Tracks for Western Pacific Typhoons
   type: files
