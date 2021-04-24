@@ -2,3 +2,8 @@
   name: gadm_philippines_0_sf
   description: Philippines Map from the GADM Database, Level 0
   type: default
+- path: ibtracs_wp_lines_shp
+  name: ibtracs_wp_lines_shp
+  extension: zip
+  description: Shapefile for best tracks in the Western Pacific
+  type: files
